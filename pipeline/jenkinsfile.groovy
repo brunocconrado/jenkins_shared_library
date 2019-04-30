@@ -3,7 +3,7 @@ pipeline {
   agent any
   environment {
     //Variaveis
-    variable
+   // variable
   }
   stages {
     stage('Checkout') { 

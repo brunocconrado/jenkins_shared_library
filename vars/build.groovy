@@ -4,5 +4,5 @@
 def call(){
    // Passos para compilar o projeto
    echo "Build."
-   sh "${mvnHome}/bin/mvn compile 
+   sh "${mvnHome}/bin/mvn compile"
 }
